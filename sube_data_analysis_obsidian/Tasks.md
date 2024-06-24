@@ -1,0 +1,34 @@
+# Project setup\
+---
+- [x] Create a github repository 
+	- [[Github Repo]]
+- [x] Setup a Python/Jupyter project with the corresponding virtual env
+	- virtualenv created with python version 3.9 over `/venv` folder
+- [x] Setup an obsidian vault for documentation 
+	- Hey there, i'm the vault. 
+# Thesis
+---
+- [x] Write an hypothesis
+- [x] Search for data sources
+	- Datasets obtained from [[Datos.gob.ar]]
+- [ ] Write a preliminar conclusion (findings up to now)
+- [ ] Create a sideshow for oral presentation
+- [ ] Write down next steps
+# Obtaining Data
+---
+- [x] Obtain Datasets
+	- Locates on `/datasets` folder 
+- [x] Organize Datasets in folders
+	- Each dataset has a corresponding 
+- [x] Create source files for each of the dataset's folders
+# Preparing data
+---
+- [ ] Create a diagram with each dataset information for easier visualization in order to find relationships between datasets.
+- [ ] Determine which datasets are going to be of use.
+- [ ] Find outliers
+- [ ] Clean data from errors and outliers
+
+
+
+
+

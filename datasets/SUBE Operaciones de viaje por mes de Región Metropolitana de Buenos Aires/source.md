@@ -1,0 +1,3 @@
+https://www.datos.gob.ar/dataset/transporte-sube-operaciones-viaje-por-mes-region-metropolitana-buenos-aires
+
+Detalle por Periodo-Modo-Jurisdicción-Grupo Tarifario-Empresa-Línea-Tipo de Pasaje._x000D_ Datos de operaciones de viajes del sistema único de boleto electrónico(SUBE) para el periodo registrado desde 01/01/2013 hasta 30/06/2019 para líneas de transporte urbano de pasajeros de RMBA incluyendo trenes, subterráneos, pre metro y colectivos._x000D_ Tipos de operación: uso (con y sin integración tarifaría), venta de pasaje, check in (con y sin integración tarifaría), check out sin check in.-

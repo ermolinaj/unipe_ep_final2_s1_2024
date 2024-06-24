@@ -1,0 +1,3 @@
+https://www.datos.gob.ar/dataset/transporte-operaciones-dia-habil-promedio-sectorizados-hexagonos-600m-por-modo-transporte-hora
+
+Estudio que agrupa un día hábil promedio de operaciones de viajes del sistema único de boleto electrónico (SUBE) para líneas de transporte urbano de pasajeros de RMBA incluyendo trenes, subterráneos, pre metro y colectivos. Tipos de operación: uso (con y sin integración tarifaría), venta de pasaje, check in (con y sin integración tarifaría), check out sin check in._x000D_ se adjunta soporte geografico, grilla hexagonal para analisis geografico de datos
