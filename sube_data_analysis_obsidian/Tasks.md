@@ -23,7 +23,8 @@
 - [x] Create source files for each of the dataset's folders
 # Preparing data
 ---
-- [ ] Create a diagram with each dataset information for easier visualization in order to find relationships between datasets.
+- [X] Create a diagram with each dataset information for easier visualization in order to find relationships between them.
+	- Created over [[Dataset relationships.canvas|Dataset relationships]] 
 - [ ] Determine which datasets are going to be of use.
 - [ ] Find outliers
 - [ ] Clean data from errors and outliers
