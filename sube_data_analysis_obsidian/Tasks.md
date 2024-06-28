@@ -25,6 +25,7 @@
 ---
 - [X] Create a diagram with each dataset information for easier visualization in order to find relationships between them.
 	- Created over [[Dataset relationships.canvas|Dataset relationships]] 
+- [ ] Play around with data to found posible topics.
 - [ ] Determine which datasets are going to be of use.
 - [ ] Find outliers
 - [ ] Clean data from errors and outliers
