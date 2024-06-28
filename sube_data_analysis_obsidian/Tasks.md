@@ -25,10 +25,18 @@
 ---
 - [X] Create a diagram with each dataset information for easier visualization in order to find relationships between them.
 	- Created over [[Dataset relationships.canvas|Dataset relationships]] 
-- [ ] Play around with data to found posible topics.
+- [x] Play around with data to found posible topics.
+	- [x] Calculate average amount of SUBE system users and draw conclusions`
+		- Available on `sube_analysis_playground.ipynb` 
+- [ ] Further preparation
+	- [ ] Find outliers or inconsistencies in data
+	- [ ] Calculate average ammount of users per month for each year
 - [ ] Determine which datasets are going to be of use.
 - [ ] Find outliers
 - [ ] Clean data from errors and outliers
+# Presentation
+---
+- [ ] Create a histogram of SUBE daily users
 
 
 
